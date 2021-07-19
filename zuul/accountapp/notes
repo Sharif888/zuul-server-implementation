@@ -1,0 +1,4 @@
+first go to the maven build 
+goal = package 
+build the jar 
+command java -jar accountapp.jar .
